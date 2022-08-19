@@ -423,7 +423,6 @@ body.active .body-mod .fa-palette {
 #section1 .description p {
     margin-bottom: 3%;
     color: white;
-    width: 600px;
     z-index: 9;
 }
 
@@ -521,7 +520,6 @@ body.active .body-mod .fa-palette {
      }
  
      #section1 .description p {
-         width: 400px;
          z-index: 9;
      }
      
@@ -559,7 +557,6 @@ body.active .body-mod .fa-palette {
      }
  
      #section1 .description p {
-         width: 300px;
          z-index: 9;
      }
      
@@ -1009,7 +1006,7 @@ body.mode #section3 .service-box .service1:hover i {
 #section4 .description p {
     font-size: 1.5em;
     line-height: 1.3;
-    min-width: 400px;
+
 }
 
 #section4 .description .read-more {
